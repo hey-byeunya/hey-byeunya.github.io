@@ -1,6 +1,6 @@
 ---
 title: "Tissue Flying — 게임 기획서"
-date: 2026-07-14 12:00:00 +0900
+date: 2026-07-14 00:00:00 +0900
 categories: [프로젝트]
 tags: [게임, 기획서, tissue-flying]
 ---
