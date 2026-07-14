@@ -338,9 +338,19 @@ function startGame() {
   floorY = baseFloorY;
 }
 
+let retryBtn = { x: 0, y: 0, w: 0, h: 0 };
+
+function isInsideRetryBtn(px, py) {
+  return px >= retryBtn.x && px <= retryBtn.x + retryBtn.w &&
+         py >= retryBtn.y && py <= retryBtn.y + retryBtn.h;
+}
+
 function handleInput(x, y) {
   if (state === State.READY) { startGame(); return; }
-  if (state === State.GAME_OVER) { startGame(); return; }
+  if (state === State.GAME_OVER) {
+    if (isInsideRetryBtn(x, y)) startGame();
+    return;
+  }
   if (state !== State.PLAYING) return;
 
   const dx = tissue.x - x;
@@ -675,9 +685,23 @@ function drawGameOver() {
   ctx.fill();
   ctx.fillStyle = '#fff';
   ctx.fillText(bestText, bx, by + 5);
-  ctx.fillStyle = '#bbb';
-  ctx.font = '400 14px -apple-system, sans-serif';
-  ctx.fillText('Tap to retry', W / 2, H * 0.65);
+  const btnText = 'Click to retry';
+  ctx.font = '500 15px -apple-system, sans-serif';
+  const btnMetrics = ctx.measureText(btnText);
+  const btnPadX = 24;
+  const btnPadY = 12;
+  const btnW = btnMetrics.width + btnPadX * 2;
+  const btnH = 18 + btnPadY * 2;
+  const btnX = W / 2 - btnW / 2;
+  const btnY = H * 0.65 - btnH / 2;
+  retryBtn = { x: btnX, y: btnY, w: btnW, h: btnH };
+  ctx.beginPath();
+  ctx.roundRect(btnX, btnY, btnW, btnH, 8);
+  ctx.fillStyle = '#222';
+  ctx.fill();
+  ctx.fillStyle = '#fff';
+  ctx.textAlign = 'center';
+  ctx.fillText(btnText, W / 2, H * 0.65 + 5);
 }
 
 function loop() {
