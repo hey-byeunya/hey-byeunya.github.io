@@ -1,11 +1,10 @@
 ---
-title: "개발 용어사전 ⑥ 네트워크 — LAN·WAN·IP·HTTP·API"
+title: "뒤돌아서면 까먹는 약어 & 용어 풀이: LAN·WAN·IP·HTTP·API"
 date: 2026-07-21 10:00:00 +0900
 categories: [개발 용어사전, 네트워크]
 tags: [lan, wan, ip, http, api, network]
 ---
 
-개발 용어 Q&A 여섯 번째 편. 데이터가 오가는 길, 네트워크 용어입니다.
 
 ## Q. LAN과 WAN 차이가 뭐예요?
 
@@ -39,4 +38,3 @@ tags: [lan, wan, ip, http, api, network]
 
 ---
 
-*다음 편: 데이터·보안 (쿼리, 인덱스, 해시, JWT, 세션·쿠키 등)*

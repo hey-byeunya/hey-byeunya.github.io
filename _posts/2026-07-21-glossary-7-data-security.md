@@ -1,11 +1,9 @@
 ---
-title: "개발 용어사전 ⑦ 데이터·보안 — 해시·JWT·세션·쿠키"
+title: "뒤돌아서면 까먹는 약어 & 용어 풀이: 데이터·보안 — 해시·JWT·세션·쿠키"
 date: 2026-07-21 09:00:00 +0900
 categories: [개발 용어사전, 데이터·보안]
 tags: [database, hash, jwt, session, cookie, security]
 ---
-
-개발 용어 Q&A 일곱 번째 편. 데이터베이스와 로그인 보안 용어를 정리했습니다.
 
 ## Q. 쿼리·인덱스·PK 먼저 정리하면?
 
@@ -62,4 +60,3 @@ tags: [database, hash, jwt, session, cookie, security]
 
 ---
 
-*다음 편: AI 계열 (LLM, Agent, MCP, 스킬 등)*

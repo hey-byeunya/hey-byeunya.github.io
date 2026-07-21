@@ -1,11 +1,9 @@
 ---
-title: "개발 용어사전 ⑧ AI 계열 — LLM·Agent·MCP·스킬"
+title: "뒤돌아서면 까먹는 약어 & 용어 풀이: LLM·Agent·MCP·스킬"
 date: 2026-07-21 08:00:00 +0900
 categories: [개발 용어사전, AI]
 tags: [llm, ai-agent, mcp, rlhf, prompt]
 ---
-
-개발 용어 Q&A 마지막 편. AI 에이전트를 이루는 용어들이에요. 이것도 식당 하나로 비유돼요. 🍽️
 
 ## Q. LLM이 뭐예요?
 
@@ -54,4 +52,3 @@ tags: [llm, ai-agent, mcp, rlhf, prompt]
 
 ---
 
-*개발 용어사전 시리즈 끝. 읽어주셔서 감사합니다! 🙌*

@@ -1,11 +1,10 @@
 ---
-title: "개발 용어사전 ③ 프로그래밍 언어 — Python·JS·TS"
+title: "뒤돌아서면 까먹는 약어 & 용어 풀이: Python·JS·TS"
 date: 2026-07-21 13:00:00 +0900
 categories: [개발 용어사전, 프로그래밍 언어]
 tags: [python, javascript, typescript]
 ---
 
-개발 용어 Q&A 세 번째 편. 대표 언어 셋을 비교해 봅니다.
 
 ## Q. Python은 어떤 언어예요?
 
@@ -46,4 +45,3 @@ age = "스물다섯"; // ❌ 작성 중에 바로 에러!
 
 ---
 
-*다음 편: 언어 개념 (객체, const, 추상화)*

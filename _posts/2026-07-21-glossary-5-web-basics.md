@@ -1,11 +1,9 @@
 ---
-title: "개발 용어사전 ⑤ 웹 기초 — GUI·CSS·DOM·JSON"
+title: "뒤돌아서면 까먹는 약어 & 용어 풀이: GUI·CSS·DOM·JSON"
 date: 2026-07-21 11:00:00 +0900
 categories: [개발 용어사전, 웹]
 tags: [gui, css, dom, json, web]
 ---
-
-개발 용어 Q&A 다섯 번째 편. 웹을 이루는 기초 용어들입니다. (MDN 한국어 문서를 참고했어요.)
 
 ## Q. GUI가 뭐예요?
 
@@ -43,4 +41,3 @@ document.querySelector("h1").textContent = "반가워요!";
 
 ---
 
-*다음 편: 네트워크 (LAN, WAN, 사설 IP, HTTP, API)*
