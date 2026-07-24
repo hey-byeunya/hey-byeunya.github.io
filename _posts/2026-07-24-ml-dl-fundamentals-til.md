@@ -1,7 +1,7 @@
 ---
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: 토큰, 임베딩, 역전파, RAG, 파인튜닝"
 date: 2026-07-24 17:57:53 +0900
-categories: [TIL, 용어]
+categories: [개발 용어사전, AI]
 tags: [til, llm, 딥러닝, 머신러닝, embedding, backpropagation, rag, finetuning]
 ---
 

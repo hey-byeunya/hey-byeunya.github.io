@@ -1,7 +1,7 @@
 ---
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: Homebrew, nvm, .zshrc"
 date: 2026-07-23 12:06:34 +0900
-categories: [TIL, 용어]
+categories: [개발 용어사전, 개발 도구]
 tags: [til, homebrew, nvm, zshrc, shell]
 ---
 
