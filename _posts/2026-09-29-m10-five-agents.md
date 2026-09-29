@@ -1,7 +1,7 @@
 ---
-title: "에이전트 다섯 개를 만들고 남은 것 — 부탁은 코드로, 점수는 의심부터"
+title: "에이전트 다섯 개를 만들고 남은 것. 부탁은 코드로, 점수는 의심부터 — 09.14~09.29 회고"
 date: 2026-09-29 14:50:00 +0900
-categories: [프로젝트]
+categories: [회고]
 tags: [ai-agent, langgraph, graphrag, hitl, 평가, 학습기록]
 mermaid: true
 ---
