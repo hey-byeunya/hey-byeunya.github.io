@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: 데이터·보안 — 해시·JWT·세션·쿠키"
 date: 2026-07-21 09:00:00 +0900
 categories: [개발 용어사전, 데이터·보안]
-tags: [database, hash, jwt, session, cookie, security]
+tags: [til, database, hash, jwt, session, cookie, security]
 ---
 
 ## Q. 쿼리·인덱스·PK 먼저 정리하면?

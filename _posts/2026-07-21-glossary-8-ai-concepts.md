@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: LLM·Agent·MCP·스킬"
 date: 2026-07-21 08:00:00 +0900
 categories: [개발 용어사전, AI]
-tags: [llm, ai-agent, mcp, rlhf, prompt]
+tags: [til, llm, ai-agent, mcp, rlhf, prompt]
 ---
 
 ## Q. LLM이 뭐예요?

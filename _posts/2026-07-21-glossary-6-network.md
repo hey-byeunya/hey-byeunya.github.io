@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: LAN·WAN·IP·HTTP·API"
 date: 2026-07-21 10:00:00 +0900
 categories: [개발 용어사전, 네트워크]
-tags: [lan, wan, ip, http, api, network]
+tags: [til, lan, wan, ip, http, api, network]
 ---
 
 

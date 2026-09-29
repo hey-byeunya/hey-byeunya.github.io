@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: 개발 도구·환경 — npm부터 Git까지"
 date: 2026-07-21 14:00:00 +0900
 categories: [개발 용어사전, 개발 도구]
-tags: [npm, nodejs, nvm, ide, git, markdown]
+tags: [til, npm, nodejs, nvm, ide, git, markdown]
 ---
 
 

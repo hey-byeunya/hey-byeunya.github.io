@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: 월드모델·NLP·ULW·MBPP"
 date: 2026-09-10 17:21:23 +0900
 categories: [개발 용어사전, AI]
-tags: [til, nlp, worldmodel, agent, benchmark, jupyter]
+tags: [til, nlp, worldmodel, ai-agent, benchmark, jupyter]
 ---
 
 ## Q. 월드모델(World Model)이 뭐예요?

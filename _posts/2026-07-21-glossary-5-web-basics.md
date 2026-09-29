@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: GUI·CSS·DOM·JSON"
 date: 2026-07-21 11:00:00 +0900
 categories: [개발 용어사전, 웹]
-tags: [gui, css, dom, json, web]
+tags: [til, gui, css, dom, json, web]
 ---
 
 ## Q. GUI가 뭐예요?

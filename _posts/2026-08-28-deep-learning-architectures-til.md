@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: RNN·트랜스포머·ResNet"
 date: 2026-08-28 11:36:00 +0900
 categories: [개발 용어사전, AI]
-tags: [til, deeplearning, rnn, cnn, transformer, resnet, lstm]
+tags: [til, 딥러닝, rnn, cnn, transformer, resnet, lstm]
 ---
 
 ## Q. RNN과 CNN은 뭐가 다른가요?

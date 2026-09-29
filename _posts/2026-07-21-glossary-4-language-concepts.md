@@ -2,7 +2,7 @@
 title: "뒤돌아서면 까먹는 약어 & 용어 풀이: 객체·const·추상화"
 date: 2026-07-21 12:00:00 +0900
 categories: [개발 용어사전, 언어 개념]
-tags: [객체, const, 추상화, object]
+tags: [til, 객체, const, 추상화, object]
 ---
 
 
